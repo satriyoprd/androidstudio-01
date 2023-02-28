@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'HELLO WORLD!!',
+              'Selamat Datang di Android Studio',
             ),
             Text(
               '$_counter',
